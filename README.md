@@ -45,8 +45,6 @@ Projenin bilgisayarınızda sorunsuz çalışabilmesi için resimlerin ve `.txt`
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
-Proje kodlarını ZIP olarak indirin.
-
 Proje ile birlikte gelen P2Oyun klasörünü kopyalayarak doğrudan Yerel Disk (C:) dizininin içine yapıştırın.
 
 Projeyi NetBeans (veya tercih ettiğiniz IDE) ile açın.
