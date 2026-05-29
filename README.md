@@ -42,3 +42,29 @@ Yerel Disk (C:)
         ├── log.txt
         ├── oyunlar.txt
         └── sifre.txt
+
+---
+
+⚙️ Kurulum ve Çalıştırma
+Proje kodlarını ZIP olarak indirin.
+
+Proje ile birlikte gelen P2Oyun klasörünü kopyalayarak doğrudan Yerel Disk (C:) dizininin içine yapıştırın.
+
+Projeyi NetBeans (veya tercih ettiğiniz IDE) ile açın.
+
+girisEkrani.java dosyasını çalıştırarak şifreyi (turgay123) girin, oyun seçeneklerinden Oyna'yı tıklayın ve oyuna başlayın.
+
+📸 Ekran Görüntüleri
+Giriş Ekranı
+<img width="502" height="531" alt="image" src="https://github.com/user-attachments/assets/63c8f751-56d4-4e3d-9e6a-32631c25b76a" />
+
+Oyun Ekranı
+<img width="667" height="632" alt="image" src="https://github.com/user-attachments/assets/d35f1383-5ea4-40a0-b3e3-d948c7c011ee" />
+
+Skorlar ve Loglar Tablosu
+<img width="658" height="630" alt="image" src="https://github.com/user-attachments/assets/b732cb4f-e6d5-4b77-a7d4-541fb16c37f9" />
+<img width="663" height="636" alt="image" src="https://github.com/user-attachments/assets/c1aa14c6-23e9-4f73-a90c-76f7cd6386a4" />
+
+Yetkisiz İşlem Uyarıları
+<img width="663" height="630" alt="image" src="https://github.com/user-attachments/assets/b38972be-7bff-44af-aaec-cff06d77790f" />
+<img width="662" height="630" alt="image" src="https://github.com/user-attachments/assets/f9da0e9e-b690-4855-aaf2-c13b08331dc7" />
