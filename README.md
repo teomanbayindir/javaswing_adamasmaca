@@ -30,22 +30,21 @@ Bu proje, Java Swing kütüphanesi kullanılarak tasarlanmış olup; dosya işle
 
 Projenin bilgisayarınızda sorunsuz çalışabilmesi için resimlerin ve `.txt` dosyalarının **mutlaka** C: diski içerisinde aşağıdaki gibi konumlandırılması gerekmektedir:
 
-```text
-Yerel Disk (C:) 
-└── P2Oyun
-    ├── Resimler
-    │   ├── 1.jpg
-    │   ├── 2.jpg
-    │   └── ... (11.jpg'ye kadar)
-    └── TXTDosyalar
-        ├── kelimeler.txt
-        ├── log.txt
-        ├── oyunlar.txt
-        └── sifre.txt
+    Yerel Disk (C:) 
+    └── P2Oyun
+        ├── Resimler
+        │   ├── 1.jpg
+        │   ├── 2.jpg
+        │   └── ... (11.jpg'ye kadar)
+        └── TXTDosyalar
+            ├── kelimeler.txt
+            ├── log.txt
+            ├── oyunlar.txt
+            └── sifre.txt
 
 ---
 
-⚙️ Kurulum ve Çalıştırma
+## ⚙️ Kurulum ve Çalıştırma
 Proje kodlarını ZIP olarak indirin.
 
 Proje ile birlikte gelen P2Oyun klasörünü kopyalayarak doğrudan Yerel Disk (C:) dizininin içine yapıştırın.
@@ -53,6 +52,8 @@ Proje ile birlikte gelen P2Oyun klasörünü kopyalayarak doğrudan Yerel Disk (
 Projeyi NetBeans (veya tercih ettiğiniz IDE) ile açın.
 
 girisEkrani.java dosyasını çalıştırarak şifreyi (turgay123) girin, oyun seçeneklerinden Oyna'yı tıklayın ve oyuna başlayın.
+
+Skor ve Log temizlemek için şifre:1234 
 
 ## 📸 Ekran Görüntüleri
 
