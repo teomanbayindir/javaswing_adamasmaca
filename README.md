@@ -63,7 +63,7 @@ girisEkrani.java dosyasını çalıştırarak şifreyi (turgay123) girin, oyun s
 ![Oyun Ekranı](https://github.com/user-attachments/assets/d35f1383-5ea4-40a0-b3e3-d948c7c011ee)
 
 ### Skorlar ve Loglar Tablosu
-![Skorlar Tablosu](https://github.com/user-attachments/assets/b732cb4f-e6d5-4b77-a7d4-541fb16c37f9)
+![Skorlar Tablosu](https://github.com/user-attachments/assets/b732cb4f-e6d5-4b77-a7d4-541fb16c37f9) 
 ![Loglar Tablosu](https://github.com/user-attachments/assets/c1aa14c6-23e9-4f73-a90c-76f7cd6386a4)
 
 ### Yetkisiz İşlem Uyarıları
